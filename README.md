@@ -13,7 +13,7 @@ A beautiful and interactive calculator built with HTML, CSS (Bootstrap), and Jav
 
 ## Demo
 
-You can see the live demo of the project here: [Live Demo Link](#)
+You can see the live demo of the project here: [Live Demo Link](https://azeembk.com/projects/js/stylish-calculator.html)
 
 ## Screenshots
 
@@ -63,8 +63,6 @@ To use this project on your local machine:
    - Click on the buttons to enter numbers and operators.
    - Click the **C** button to clear the input.
    - Press **=** to calculate the result.
-   
-3. The watermark, **"Created with ❤️ by Azeem Bk"**, will always be displayed at the bottom of the calculator with a clickable link to **Azeembk.com**.
 
 ## Contributing
 
