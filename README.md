@@ -17,7 +17,7 @@ You can see the live demo of the project here: [Live Demo Link](#)
 
 ## Screenshots
 
-![Calculator Screenshot](https://via.placeholder.com/600x400.png?text=Calculator+Screenshot)
+![Calculator Screenshot](Screenshot.png)
 
 ## Technologies Used
 
